@@ -12,3 +12,6 @@ Thumbs.db
 
 # 本地服务器
 /server.log
+
+# Cloudflare wrangler 缓存
+.wrangler/
