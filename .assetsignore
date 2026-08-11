@@ -1,0 +1,6 @@
+# Cloudflare Pages 部署时排除
+.git
+.gitignore
+.vscode
+docs
+*.log
